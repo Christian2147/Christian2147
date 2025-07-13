@@ -48,6 +48,7 @@ Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ dow
 
 ## 💻 Tech Stack
 
+Contains all the tools and technologies I have worked with in the past.
 > Click the arrow next to each section to expand.
 
 <details>
@@ -138,7 +139,7 @@ Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ dow
 </details>
 
 <details>
-<summaryFormats & Technologies</summary>
+<summary>Formats & Technologies</summary>
 <p>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
   <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX"/>
