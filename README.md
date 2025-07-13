@@ -2,7 +2,7 @@
 
 ## 🧑 About Me
 
-Hello there! My name is **Christian Marinkovich**, and I’m a dual major in **Computer Science** and **Information Technology & Web Science** at **Rensselaer Polytechnic Institute**. I have **6 months of professional experience** in web development, and I’m passionate about many areas of computer science — from **systems development** to **game development**. I'm always excited to build new things, tackle meaningful problems, and collaborate on innovative ideas. Feel free to reach out anytime!
+Hello there! My name is **Christian Marinkovich**, and I’m a **junior** dual major in **Computer Science** and **Information Technology & Web Science** at **Rensselaer Polytechnic Institute**. I have **6 months of professional experience** in web development, and I’m passionate about many areas of computer science — from **systems development** to **game development**. I'm always excited to build new things, tackle meaningful problems, and collaborate on innovative ideas. Feel free to reach out anytime!
 
 
 ## ⭐ Interests
