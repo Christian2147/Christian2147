@@ -7,7 +7,7 @@ Hello there! My name is **Christian Marinkovich**, and I’m a dual major in **C
 
 ## ⭐ Interests
 
-My Interests include many different fields in Computer & Information Science:
+My interests span many different fields of Computer and Information Science:
 
 - **Desktop Application Development**  
     Designing and building powerful desktop software to improve productivity and user experience.
@@ -38,18 +38,20 @@ A 2D laser-shooting game developed in **Python** using **Pygame**. Features incl
 
 ### JCAT Game Engine  
 A custom game engine written in **C++**, built with **Vulkan**, **GLFW**, and **GLM**. Supports both 2D and 3D rendering, lighting, and textures.  
-[Link 🔗](https://github.com/Christian2147/JCAT-Game-Engine)
+[Link 🔗](https://github.com/JCAT-Games/JCAT-Game-Engine)
 
 ### Lethal Company Open Source (LCOS)  
 Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ downloads) and **Scooby Laugh Sound Mod** (3.8k+ downloads).  
-[Link 🔗](https://github.com/Christian2147/Lethal-Company-Mods)
+[Link 🔗](https://github.com/LCOS-Lethal-Company-Open-Source)
 
 **🚀 Feel free to explore my profile and check out more of my projects!**
 
 ## 💻 Tech Stack
 
+> Click the arrow next to each section to expand.
+
 <details>
-<summary><strong>Programming Languages</strong></summary>
+<summary>Programming Languages</summary>
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -67,7 +69,7 @@ Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ dow
 </details>
 
 <details>
-<summary><strong>Frameworks</strong></summary>
+<summary>Frameworks</summary>
 <p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -80,7 +82,7 @@ Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ dow
 </details>
 
 <details>
-<summary><strong>Libraries</strong></summary>
+<summary>Libraries</summary>
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
@@ -95,7 +97,7 @@ Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ dow
 </details>
 
 <details>
-<summary><strong>Databases</strong></summary>
+<summary>Databases</summary>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -104,7 +106,7 @@ Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ dow
 </details>
 
 <details>
-<summary><strong>Tools & Platforms</strong></summary>
+<summary>Tools & Platforms</summary>
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -116,7 +118,7 @@ Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ dow
 </details>
 
 <details>
-<summary><strong>DevOps & Build Tools</strong></summary>
+<summary>DevOps & Build Tools</summary>
 <p>
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
   <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile"/>
@@ -126,7 +128,7 @@ Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ dow
 </details>
 
 <details>
-<summary><strong>UI / Styling</strong></summary>
+<summary>UI / Styling</summary>
 <p>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -136,7 +138,7 @@ Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ dow
 </details>
 
 <details>
-<summary><strong>Formats & Technologies</strong></summary>
+<summaryFormats & Technologies</summary>
 <p>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
   <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX"/>
