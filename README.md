@@ -40,10 +40,9 @@ Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ dow
   </a>
 </div>
 
-<div style="margin-top: 24px; font-weight: bold; font-size: 1.1em;">
-  🚀 Feel free to explore my profile and check out more of my projects!
-</div>
+<br>
 
+**🚀 Feel free to explore my profile and check out more of my projects!**
 
 ## 💻 Tech Stack
 
