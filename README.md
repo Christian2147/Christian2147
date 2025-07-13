@@ -9,23 +9,12 @@ Hello there! My name is **Christian Marinkovich**, and I’m a dual major in **C
 
 My interests span many different fields of Computer and Information Science:
 
-- **Desktop Application Development**  
-    Designing and building powerful desktop software to improve productivity and user experience.
-
-- **Mobile Application Development**  
-    Creating intuitive and responsive apps for Android and iOS devices to reach users on the go.
-
-- **Game Development**  
-    Developing engaging and immersive games using modern engines and tools.
-
-- **Web Development**  
-    Building dynamic, scalable, and user-friendly web applications and services.
-
-- **Systems Development**  
-    Working on low-level software such as operating systems, drivers, and system utilities.
-
-- **Cybersecurity Programming**  
-    Writing secure code, developing security tools, and automating vulnerability assessments to protect systems.
+- **Desktop Application Development:** Designing and building powerful desktop software to improve productivity and user experience.
+- **Mobile Application Development:** Creating intuitive and responsive apps for Android and iOS devices to reach users on the go.
+- **Game Development:** Developing engaging and immersive games using modern engines and tools.
+- **Web Development:** Building dynamic, scalable, and user-friendly web applications and services.
+- **Systems Development:** Working on low-level software such as operating systems, drivers, and system utilities.
+- **Cybersecurity Programming:** Writing secure code, developing security tools, and automating vulnerability assessments to protect systems.
 
 
 ## 🚀 Current/Popular Projects
@@ -34,15 +23,29 @@ My interests span many different fields of Computer and Information Science:
 
 ### Laser Fighter  
 A 2D laser-shooting game developed in **Python** using **Pygame**. Features include enemy waves, scaling difficulty, and power-ups.  
-[Link 🔗](https://github.com/Christian2147/Laser-Fighter)
+[![Laser Fighter](https://github-readme-stats.vercel.app/api/pin/?username=Christian2147&repo=Laser-Fighter&theme=dark)](https://github.com/Christian2147/Laser-Fighter)
 
 ### JCAT Game Engine  
 A custom game engine written in **C++**, built with **Vulkan**, **GLFW**, and **GLM**. Supports both 2D and 3D rendering, lighting, and textures.  
-[Link 🔗](https://github.com/JCAT-Games/JCAT-Game-Engine)
+[![JCAT Game Engine](https://github-readme-stats.vercel.app/api/pin/?username=JCAT-Games&repo=JCAT-Game-Engine&theme=dark)](https://github.com/JCAT-Games/JCAT-Game-Engine)
 
 ### Lethal Company Open Source (LCOS)  
 Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ downloads) and **Scooby Laugh Sound Mod** (3.8k+ downloads).  
-[Link 🔗](https://github.com/LCOS-Lethal-Company-Open-Source)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/LCOS-Lethal-Company-Open-Source/LCOS-CMGodModeMod" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LCOS-Lethal-Company-Open-Source&repo=LCOS-CMGodModeMod&theme=dark" alt="LCOS God Mode Mod" width="280"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Christian2147/LCOS-Scooby-Laughing-Sound-Mod" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Christian2147&repo=LCOS-Scooby-Laughing-Sound-Mod&theme=dark" alt="LCOS Scooby Laughing Sound Mod" width="280"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 **🚀 Feel free to explore my profile and check out more of my projects!**
 
