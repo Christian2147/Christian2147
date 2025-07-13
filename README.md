@@ -31,16 +31,16 @@ A custom game engine written in **C++**, built with **Vulkan**, **GLFW**, and **
 
 ### Lethal Company Open Source (LCOS)  
 Open source mods for *Lethal Company*. Creator of the **God Mode Mod** (62k+ downloads) and **Scooby Laugh Sound Mod** (3.8k+ downloads).  
-<table>
+<table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
-    <td width="50%">
+    <td style="border: none; padding: 0;" width="50%">
       <a href="https://github.com/LCOS-Lethal-Company-Open-Source/LCOS-CMGodModeMod" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LCOS-Lethal-Company-Open-Source&repo=LCOS-CMGodModeMod&theme=dark" alt="LCOS God Mode Mod" width="280"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LCOS-Lethal-Company-Open-Source&repo=LCOS-CMGodModeMod&theme=dark" alt="LCOS God Mode Mod" width="280" style="display: block; margin: auto;"/>
       </a>
     </td>
-    <td width="50%">
+    <td style="border: none; padding: 0;" width="50%">
       <a href="https://github.com/Christian2147/LCOS-Scooby-Laughing-Sound-Mod" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Christian2147&repo=LCOS-Scooby-Laughing-Sound-Mod&theme=dark" alt="LCOS Scooby Laughing Sound Mod" width="280"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Christian2147&repo=LCOS-Scooby-Laughing-Sound-Mod&theme=dark" alt="LCOS Scooby Laughing Sound Mod" width="280" style="display: block; margin: auto;"/>
       </a>
     </td>
   </tr>
